@@ -1,0 +1,2 @@
+meta/vox2/path2info filter=lfs diff=lfs merge=lfs -text
+meta/vox2/train_path2info filter=lfs diff=lfs merge=lfs -text
